@@ -282,11 +282,11 @@ Includes:
 
 ### Sales & Product Insights
 
-![Sales & Product Insights](Images\Page2.jpg)
+![Sales & Product Insights](Images/Page2.jpg)
 
 ### Customer Insights
 
-![Customer Insights](Images\Page3.jpg)
+![Customer Insights](Images/Page3.jpg)
 
 ---
 
