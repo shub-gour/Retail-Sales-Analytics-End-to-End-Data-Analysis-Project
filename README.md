@@ -278,15 +278,15 @@ Includes:
 
 ### Executive Overview
 
-![Executive Overview](Images/page%201.png)
+![Executive Overview](Images/Page1.jpg)
 
 ### Sales & Product Insights
 
-![Sales & Product Insights](Images/page%202.png)
+![Sales & Product Insights](Images/Page 2.jpg)
 
 ### Customer Insights
 
-![Customer Insights](Images/page%203.png)
+![Customer Insights](Images/Page 3.jpg)
 
 ---
 
